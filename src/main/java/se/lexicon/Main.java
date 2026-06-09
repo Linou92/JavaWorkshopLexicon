@@ -24,10 +24,11 @@ public class Main {
         IO.println("------------ Exercise 10 ------------");
         SwapValues.printSwapValues();
         IO.println("------------ Exercise 11 ------------");
-        FizzBuzz.printFizzBuzz();*/
+        FizzBuzz.printFizzBuzz();
         IO.println("------------ Exercise 12 ------------");
-        GradeCalculator.printGradeCalculator();
+        GradeCalculator.printGradeCalculator();*/
         IO.println("------------ Exercise 13 ------------");
+        WeekDayWeekEnd.printWeekDayWeekEnd();
         IO.println("------------ Exercise 14 ------------");
         IO.println("------------ Exercise 15 ------------");
         IO.println("------------ Exercise 16 ------------");
