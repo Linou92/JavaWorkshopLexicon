@@ -28,10 +28,11 @@ public class Main {
         IO.println("------------ Exercise 12 ------------");
         GradeCalculator.printGradeCalculator();
         IO.println("------------ Exercise 13 ------------");
-        WeekDayWeekEnd.printWeekDayWeekEnd();*/
+        WeekDayWeekEnd.printWeekDayWeekEnd();
         IO.println("------------ Exercise 14 ------------");
-        MultiplicationTable.printMultiplicationTable();
+        MultiplicationTable.printMultiplicationTable();*/
         IO.println("------------ Exercise 15 ------------");
+        ReverseNumber.printReverseNumber();
         IO.println("------------ Exercise 16 ------------");
         IO.println("------------ Exercise 17 ------------");
         IO.println("------------ Exercise 18 ------------");
