@@ -26,10 +26,11 @@ public class Main {
         IO.println("------------ Exercise 11 ------------");
         FizzBuzz.printFizzBuzz();
         IO.println("------------ Exercise 12 ------------");
-        GradeCalculator.printGradeCalculator();*/
+        GradeCalculator.printGradeCalculator();
         IO.println("------------ Exercise 13 ------------");
-        WeekDayWeekEnd.printWeekDayWeekEnd();
+        WeekDayWeekEnd.printWeekDayWeekEnd();*/
         IO.println("------------ Exercise 14 ------------");
+        MultiplicationTable.printMultiplicationTable();
         IO.println("------------ Exercise 15 ------------");
         IO.println("------------ Exercise 16 ------------");
         IO.println("------------ Exercise 17 ------------");
