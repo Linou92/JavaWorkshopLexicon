@@ -8,6 +8,7 @@ public class Main {
         IO.println("------------ Exercise 2 ------------");
         LeapYear.printLeapYear();
         IO.println("------------ Exercise 3 ------------");
+        ShoppingReceipt.printShoppingReceipt();
         IO.println("------------ Exercise 4 ------------");
         IO.println("------------ Exercise 5 ------------");
         IO.println("------------ Exercise 6 ------------");
