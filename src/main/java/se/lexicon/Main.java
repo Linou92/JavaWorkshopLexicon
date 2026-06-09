@@ -3,7 +3,7 @@ package se.lexicon;
 public class Main {
     void main() {
 
-        IO.println("------------ Exercise 1 ------------");
+        /*IO.println("------------ Exercise 1 ------------");
         ProfileCard.printProfile();
         IO.println("------------ Exercise 2 ------------");
         LeapYear.printLeapYear();
@@ -16,8 +16,9 @@ public class Main {
         IO.println("------------ Exercise 6 ------------");
         ArithmeticUserInput.printArithmeticUserInput();
         IO.println("------------ Exercise 7 ------------");
-        ConvertSeconds.printConvertSeconds();
+        ConvertSeconds.printConvertSeconds();*/
         IO.println("------------ Exercise 8 ------------");
+        GuessTheNumber.printGuessTheNumber();
         IO.println("------------ Exercise 9 ------------");
         IO.println("------------ Exercise 10 ------------");
         IO.println("------------ Exercise 11 ------------");
