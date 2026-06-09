@@ -38,10 +38,15 @@ public class Main {
         IO.println("------------ Exercise 17 ------------");
         PasswordStrengthChecker.printPasswordStrengthChecker();
         IO.println("------------ Exercise 18 ------------");
-        SumOfDigits.sumOfDigits(1234);*/
+        SumOfDigits.sumOfDigits(1234);
         IO.println("------------ Exercise 19 ------------");
-        IO.println(CountVowels.countVowels("Hello World"));
+        IO.println(CountVowels.countVowels("Hello World"));*/
         IO.println("------------ Exercise 20 ------------");
+        for(int i=2; i<= 50; i++){
+            if(FindAllPrimeNumbers.isPrime(i)){
+                IO.print(i + " ");
+            }
+        }
 
     }
 }
