@@ -12,6 +12,7 @@ public class Main {
         IO.println("------------ Exercise 4 ------------");
         AverageThreeNumbers.printAverageThreeNumbers();
         IO.println("------------ Exercise 5 ------------");
+        GreetUser.printGreetUser();
         IO.println("------------ Exercise 6 ------------");
         IO.println("------------ Exercise 7 ------------");
         IO.println("------------ Exercise 8 ------------");
