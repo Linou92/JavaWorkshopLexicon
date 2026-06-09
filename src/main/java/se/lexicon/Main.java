@@ -36,10 +36,11 @@ public class Main {
         IO.println("------------ Exercise 16 ------------");
         RunningTotal.printRunningTotal();
         IO.println("------------ Exercise 17 ------------");
-        PasswordStrengthChecker.printPasswordStrengthChecker();*/
+        PasswordStrengthChecker.printPasswordStrengthChecker();
         IO.println("------------ Exercise 18 ------------");
-        SumOfDigits.sumOfDigits(1234);
+        SumOfDigits.sumOfDigits(1234);*/
         IO.println("------------ Exercise 19 ------------");
+        IO.println(CountVowels.countVowels("Hello World"));
         IO.println("------------ Exercise 20 ------------");
 
     }
