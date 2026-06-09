@@ -18,10 +18,11 @@ public class Main {
         IO.println("------------ Exercise 7 ------------");
         ConvertSeconds.printConvertSeconds();
         IO.println("------------ Exercise 8 ------------");
-        GuessTheNumber.printGuessTheNumber();*/
+        GuessTheNumber.printGuessTheNumber();
         IO.println("------------ Exercise 9 ------------");
-        TemperatureConverter.printTemperatureConverter();
+        TemperatureConverter.printTemperatureConverter();*/
         IO.println("------------ Exercise 10 ------------");
+        SwapValues.printSwapValues();
         IO.println("------------ Exercise 11 ------------");
         IO.println("------------ Exercise 12 ------------");
         IO.println("------------ Exercise 13 ------------");
