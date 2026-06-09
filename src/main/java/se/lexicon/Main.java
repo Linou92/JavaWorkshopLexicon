@@ -32,10 +32,11 @@ public class Main {
         IO.println("------------ Exercise 14 ------------");
         MultiplicationTable.printMultiplicationTable();
         IO.println("------------ Exercise 15 ------------");
-        ReverseNumber.printReverseNumber();*/
+        ReverseNumber.printReverseNumber();
         IO.println("------------ Exercise 16 ------------");
-        RunningTotal.printRunningTotal();
+        RunningTotal.printRunningTotal();*/
         IO.println("------------ Exercise 17 ------------");
+        PasswordStrengthChecker.printPasswordStrengthChecker();
         IO.println("------------ Exercise 18 ------------");
         IO.println("------------ Exercise 19 ------------");
         IO.println("------------ Exercise 20 ------------");
