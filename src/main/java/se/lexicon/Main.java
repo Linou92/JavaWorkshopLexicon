@@ -16,6 +16,7 @@ public class Main {
         IO.println("------------ Exercise 6 ------------");
         ArithmeticUserInput.printArithmeticUserInput();
         IO.println("------------ Exercise 7 ------------");
+        ConvertSeconds.printConvertSeconds();
         IO.println("------------ Exercise 8 ------------");
         IO.println("------------ Exercise 9 ------------");
         IO.println("------------ Exercise 10 ------------");
