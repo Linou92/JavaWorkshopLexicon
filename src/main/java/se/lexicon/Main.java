@@ -50,9 +50,29 @@ public class Main {
         }
         IO.println("-------------- PART 2 ------------");
         IO.println("-------------- Exercise 1 --------");
-        WordReverser.printReversedWord();*/
+        WordReverser.printReversedWord();
         IO.println("-------------- Exercise 2 --------");
-        EmailSlicer.printEmailSlicer();
+        EmailSlicer.printEmailSlicer();*/
+        IO.println("-------------- Exercise 3 --------");
+        StringStats.printStringStats();
+        IO.println("-------------- Exercise 4 --------");
+        IO.println("-------------- Exercise 5 --------");
+        IO.println("-------------- Exercise 6 --------");
+        IO.println("-------------- Exercise 7 --------");
+        IO.println("-------------- Exercise 8 --------");
+        IO.println("-------------- Exercise 9 --------");
+        IO.println("-------------- Exercise 10 --------");
+        IO.println("-------------- Exercise 11 --------");
+        IO.println("-------------- Exercise 12 --------");
+        IO.println("-------------- Exercise 13 --------");
+        IO.println("-------------- Exercise 14 --------");
+        IO.println("-------------- Exercise 15 --------");
+        IO.println("-------------- Exercise 16 --------");
+        IO.println("-------------- Exercise 17 --------");
+        IO.println("-------------- Exercise 18 --------");
+        IO.println("-------------- Exercise 19 --------");
+        IO.println("-------------- Exercise 20 --------");
+
 
     }
 }
