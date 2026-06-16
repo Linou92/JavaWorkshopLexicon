@@ -66,10 +66,11 @@ public class Main {
         IO.println("-------------- Exercise 8 --------");
         PowerTable.printPowerTable();
         IO.println("-------------- Exercise 9 --------");
-        RightTriangleChecker.printRightTriangleChecker();*/
+        RightTriangleChecker.printRightTriangleChecker();
         IO.println("-------------- Exercise 10 --------");
-        NumberCruncher.printNumberCruncher();
+        NumberCruncher.printNumberCruncher();*/
         IO.println("-------------- Exercise 11 --------");
+        DiceStatistics.printDiceStatistics();
         IO.println("-------------- Exercise 12 --------");
         IO.println("-------------- Exercise 13 --------");
         IO.println("-------------- Exercise 14 --------");
