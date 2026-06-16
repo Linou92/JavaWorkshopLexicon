@@ -70,10 +70,11 @@ public class Main {
         IO.println("-------------- Exercise 10 --------");
         NumberCruncher.printNumberCruncher();
         IO.println("-------------- Exercise 11 --------");
-        DiceStatistics.printDiceStatistics();*/
+        DiceStatistics.printDiceStatistics();
         IO.println("-------------- Exercise 12 --------");
-        PasswordGenerator.printPasswordGenerator();
+        PasswordGenerator.printPasswordGenerator();*/
         IO.println("-------------- Exercise 13 --------");
+        ReceiptBuilder.printReceiptBuilder();
         IO.println("-------------- Exercise 14 --------");
         IO.println("-------------- Exercise 15 --------");
         IO.println("-------------- Exercise 16 --------");
