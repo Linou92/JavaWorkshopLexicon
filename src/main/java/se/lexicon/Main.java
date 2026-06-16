@@ -58,10 +58,11 @@ public class Main {
         IO.println("-------------- Exercise 4 --------");
         InitialsGenerator.printInitialsGenerator();
         IO.println("-------------- Exercise 5 --------");
-        PalindromeChecker.printPalindromeChecker();*/
+        PalindromeChecker.printPalindromeChecker();
         IO.println("-------------- Exercise 6 --------");
-        WordCounter.printWordCounter();
+        WordCounter.printWordCounter();*/
         IO.println("-------------- Exercise 7 --------");
+        CircleCalculator.printCircleCalculator();
         IO.println("-------------- Exercise 8 --------");
         IO.println("-------------- Exercise 9 --------");
         IO.println("-------------- Exercise 10 --------");
