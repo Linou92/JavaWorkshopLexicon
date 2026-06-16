@@ -60,10 +60,11 @@ public class Main {
         IO.println("-------------- Exercise 5 --------");
         PalindromeChecker.printPalindromeChecker();
         IO.println("-------------- Exercise 6 --------");
-        WordCounter.printWordCounter();*/
+        WordCounter.printWordCounter();
         IO.println("-------------- Exercise 7 --------");
-        CircleCalculator.printCircleCalculator();
+        CircleCalculator.printCircleCalculator();*/
         IO.println("-------------- Exercise 8 --------");
+        PowerTable.printPowerTable();
         IO.println("-------------- Exercise 9 --------");
         IO.println("-------------- Exercise 10 --------");
         IO.println("-------------- Exercise 11 --------");
