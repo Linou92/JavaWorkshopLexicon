@@ -84,11 +84,10 @@ public class Main {
         IO.println("-------------- Exercise 17 --------");
         AppointmentPlanner.printAppointmentPlanner();
         IO.println("-------------- Exercise 18 --------");
-        DateRangePrinter.printDateRangePrinter();*/
+        DateRangePrinter.printDateRangePrinter();
         IO.println("-------------- Exercise 19 --------");
-        UnitConverter.printUnitConverter();
+        UnitConverter.printUnitConverter();*/
         IO.println("-------------- Exercise 20 --------");
-
-
+        ProfileCardBuilder.printProfileCardBuilder();
     }
 }
