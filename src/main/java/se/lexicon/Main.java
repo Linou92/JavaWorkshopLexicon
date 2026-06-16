@@ -54,10 +54,11 @@ public class Main {
         IO.println("-------------- Exercise 2 --------");
         EmailSlicer.printEmailSlicer();
         IO.println("-------------- Exercise 3 --------");
-        StringStats.printStringStats();*/
+        StringStats.printStringStats();
         IO.println("-------------- Exercise 4 --------");
-        InitialsGenerator.printInitialsGenerator();
+        InitialsGenerator.printInitialsGenerator();*/
         IO.println("-------------- Exercise 5 --------");
+        PalindromeChecker.printPalindromeChecker();
         IO.println("-------------- Exercise 6 --------");
         IO.println("-------------- Exercise 7 --------");
         IO.println("-------------- Exercise 8 --------");
