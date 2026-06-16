@@ -78,10 +78,11 @@ public class Main {
         IO.println("-------------- Exercise 14 --------");
         TodayCalendar.printTodayCalendar();
         IO.println("-------------- Exercise 15 --------");
-        AgeCalculator.printAgeCalculator();*/
+        AgeCalculator.printAgeCalculator();
         IO.println("-------------- Exercise 16 --------");
-        EventCountdown.printEventCountdown();
+        EventCountdown.printEventCountdown();*/
         IO.println("-------------- Exercise 17 --------");
+        AppointmentPlanner.printAppointmentPlanner();
         IO.println("-------------- Exercise 18 --------");
         IO.println("-------------- Exercise 19 --------");
         IO.println("-------------- Exercise 20 --------");
