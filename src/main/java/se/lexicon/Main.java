@@ -64,10 +64,11 @@ public class Main {
         IO.println("-------------- Exercise 7 --------");
         CircleCalculator.printCircleCalculator();
         IO.println("-------------- Exercise 8 --------");
-        PowerTable.printPowerTable();*/
+        PowerTable.printPowerTable();
         IO.println("-------------- Exercise 9 --------");
-        RightTriangleChecker.printRightTriangleChecker();
+        RightTriangleChecker.printRightTriangleChecker();*/
         IO.println("-------------- Exercise 10 --------");
+        NumberCruncher.printNumberCruncher();
         IO.println("-------------- Exercise 11 --------");
         IO.println("-------------- Exercise 12 --------");
         IO.println("-------------- Exercise 13 --------");
