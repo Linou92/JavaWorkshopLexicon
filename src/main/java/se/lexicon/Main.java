@@ -52,10 +52,11 @@ public class Main {
         IO.println("-------------- Exercise 1 --------");
         WordReverser.printReversedWord();
         IO.println("-------------- Exercise 2 --------");
-        EmailSlicer.printEmailSlicer();*/
+        EmailSlicer.printEmailSlicer();
         IO.println("-------------- Exercise 3 --------");
-        StringStats.printStringStats();
+        StringStats.printStringStats();*/
         IO.println("-------------- Exercise 4 --------");
+        InitialsGenerator.printInitialsGenerator();
         IO.println("-------------- Exercise 5 --------");
         IO.println("-------------- Exercise 6 --------");
         IO.println("-------------- Exercise 7 --------");
