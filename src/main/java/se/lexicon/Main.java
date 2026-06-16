@@ -47,10 +47,12 @@ public class Main {
             if(FindAllPrimeNumbers.isPrime(i)){
                 IO.print(i + " ");
             }
-        }*/
+        }
         IO.println("-------------- PART 2 ------------");
         IO.println("-------------- Exercise 1 --------");
-        WordReverser.printReversedWord();
+        WordReverser.printReversedWord();*/
+        IO.println("-------------- Exercise 2 --------");
+        EmailSlicer.printEmailSlicer();
 
     }
 }
