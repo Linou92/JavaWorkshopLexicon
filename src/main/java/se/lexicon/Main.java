@@ -82,10 +82,11 @@ public class Main {
         IO.println("-------------- Exercise 16 --------");
         EventCountdown.printEventCountdown();
         IO.println("-------------- Exercise 17 --------");
-        AppointmentPlanner.printAppointmentPlanner();*/
+        AppointmentPlanner.printAppointmentPlanner();
         IO.println("-------------- Exercise 18 --------");
-        DateRangePrinter.printDateRangePrinter();
+        DateRangePrinter.printDateRangePrinter();*/
         IO.println("-------------- Exercise 19 --------");
+        UnitConverter.printUnitConverter();
         IO.println("-------------- Exercise 20 --------");
 
 
