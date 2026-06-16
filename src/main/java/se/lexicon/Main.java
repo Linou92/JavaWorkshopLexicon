@@ -74,10 +74,11 @@ public class Main {
         IO.println("-------------- Exercise 12 --------");
         PasswordGenerator.printPasswordGenerator();
         IO.println("-------------- Exercise 13 --------");
-        ReceiptBuilder.printReceiptBuilder();*/
+        ReceiptBuilder.printReceiptBuilder();
         IO.println("-------------- Exercise 14 --------");
-        TodayCalendar.printTodayCalendar();
+        TodayCalendar.printTodayCalendar();*/
         IO.println("-------------- Exercise 15 --------");
+        AgeCalculator.printAgeCalculator();
         IO.println("-------------- Exercise 16 --------");
         IO.println("-------------- Exercise 17 --------");
         IO.println("-------------- Exercise 18 --------");
