@@ -3,7 +3,8 @@ package se.lexicon;
 public class Main {
     void main() {
 
-        /*IO.println("------------ Exercise 1 ------------");
+        /* IO.println("--------- PART 1 ------------");
+        IO.println("------------ Exercise 1 ------------");
         ProfileCard.printProfile();
         IO.println("------------ Exercise 2 ------------");
         LeapYear.printLeapYear();
@@ -40,13 +41,16 @@ public class Main {
         IO.println("------------ Exercise 18 ------------");
         SumOfDigits.sumOfDigits(1234);
         IO.println("------------ Exercise 19 ------------");
-        IO.println(CountVowels.countVowels("Hello World"));*/
+        IO.println(CountVowels.countVowels("Hello World"));
         IO.println("------------ Exercise 20 ------------");
         for(int i=2; i<= 50; i++){
             if(FindAllPrimeNumbers.isPrime(i)){
                 IO.print(i + " ");
             }
-        }
+        }*/
+        IO.println("-------------- PART 2 ------------");
+        IO.println("-------------- Exercise 1 --------");
+        WordReverser.printReversedWord();
 
     }
 }
