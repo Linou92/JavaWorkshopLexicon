@@ -56,10 +56,11 @@ public class Main {
         IO.println("-------------- Exercise 3 --------");
         StringStats.printStringStats();
         IO.println("-------------- Exercise 4 --------");
-        InitialsGenerator.printInitialsGenerator();*/
+        InitialsGenerator.printInitialsGenerator();
         IO.println("-------------- Exercise 5 --------");
-        PalindromeChecker.printPalindromeChecker();
+        PalindromeChecker.printPalindromeChecker();*/
         IO.println("-------------- Exercise 6 --------");
+        WordCounter.printWordCounter();
         IO.println("-------------- Exercise 7 --------");
         IO.println("-------------- Exercise 8 --------");
         IO.println("-------------- Exercise 9 --------");
